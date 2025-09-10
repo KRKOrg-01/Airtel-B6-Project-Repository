@@ -1,0 +1,11 @@
+// A simple Java program to print "Hello, World!"
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+Explanation:
+public class HelloWorld: Defines a class named HelloWorld. The class name must match the file name (e.g., HelloWorld.java).
+public static void main(String[] args): The main method is the entry point of any Java program.
+System.out.println("Hello, World!");: Prints the text "Hello, World!" to the console.
+If you'd like to explore more advanced examples, let me know! I can provide programs for loops, arrays, file handling, or even object-oriented concepts.
